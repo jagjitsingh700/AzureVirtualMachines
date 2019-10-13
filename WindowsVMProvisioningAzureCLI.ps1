@@ -1,4 +1,4 @@
-az login --subscription "Pay-As-You-Go"
+az login
 
 #1 - Create a resource group, then query the list of resource groups in our subscriptions
 az group create `
